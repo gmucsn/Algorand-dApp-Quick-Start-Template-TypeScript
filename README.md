@@ -1,5 +1,6 @@
 # Algorand-dApp-Quick-Start-Template-TypeScript
 
+Welcome
 This is a full-stack starter template for quickly building and testing Web3 ideas on Algorand. It includes:
 
 - Wallet connection
